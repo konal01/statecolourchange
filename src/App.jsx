@@ -2,7 +2,7 @@ import { useState } from 'react'
 
 
 function App() {
-  const [color,setColor] = useState("#2A3439")
+  const [color,setColor] = useState("BLACK")
 
   return (
     <>
