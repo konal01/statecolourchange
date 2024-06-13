@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-     <div id= "choosecolour" className="w-screen h-screen duration-200 font-custom flex items-center justify-center text-5xl " 
+     <div id= "choosecolour" className="w-screen h-screen duration-200 font-custom flex items-center justify-center text-3xl " 
         style={{backgroundColor: color}}>
             <div className='px-10 flex align-middle font-arial'>ＣＨＯＯＳＥ     ＹＯＵＲ     ＣＯＬＯＵＲ</div>
      </div>
