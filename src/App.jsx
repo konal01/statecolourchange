@@ -10,7 +10,7 @@ function App() {
         style={{backgroundColor: color}}>
             <div className='px-10 flex align-middle font-arial'><p>ＣＨＯＯＳＥ  ＹＯＵＲ  ＣＯＬＯＵＲ</p></div>
      </div>
-      <div className='fixed flex flex-wrap justify-center  bottom-12 inset-x-0 px-4' >
+      <div className='fixed flex flex-wrap justify-center  bottom-12 inset-x-0 px-4 mr-8' >
           <div className='flex flex-wrap justify-center gap-3 shadow-lg bg-white px-3 py-2 rounded-3xl '>
             <button onClick={()=> setColor("#E2CFEA")} className="outline-none padding-4 rounded-full text-white shadow-lg" 
             style={{backgroundColor:"#E2CFEA"}}>Thistle
